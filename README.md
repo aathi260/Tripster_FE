@@ -1,6 +1,3 @@
-Here’s a comprehensive description for your GitHub repository to reflect your Trip Planner app project:
-
----
 
 # Trip Planner App
 
